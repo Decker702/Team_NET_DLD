@@ -1,3 +1,3 @@
 # Team_NET_DLD
-Daniel, L, Devan
-This is an app, which allows the user to track what they need by category and store.
+
+This is a team created app, which allows the user to keep track of what they need by category and store.
